@@ -41,8 +41,9 @@
 
 [**6. Work, News, Testimonial articles**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/6-index.html)
 
+[**7. Navigation**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/7-index.html)
+
 <!-- [**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
 [**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
 [**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
 [**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
