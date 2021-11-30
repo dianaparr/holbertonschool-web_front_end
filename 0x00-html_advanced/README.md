@@ -51,8 +51,9 @@
 
 [**11. styleguide**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/11-styleguide.html)
 
+[**12. Paragraphs**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/12-index.html)
+
 <!-- [**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
 [**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
 [**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
 [**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
