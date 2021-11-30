@@ -59,12 +59,19 @@
 
 [**15. Div**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/15-index.html)
 
+[**16. Structure your sections**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/16-index.html)
+
+[**17. Comments**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/17-index.html)
+
+[**18. link your logo**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/18-index.html)
+
+[**19. Create new pages-about**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/about.html)
+[**19. Create new pages-latest_news**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/latest_news.html)
+[**19. Create new pages-contact**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/contact.html)
+
+[**20. Add links**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/index.html)
+
 <!-- [**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
 [**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
 [**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
 [**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
