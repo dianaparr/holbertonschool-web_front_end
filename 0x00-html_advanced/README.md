@@ -71,25 +71,42 @@
 
 [**20. Add links**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/index.html)
 
-<!-- [**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html)
-[**0. Create your first webpage**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/0-index.html) -->
+[**21. Add social media links**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/21-index.html)
+
+[**22. "Button" links**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/22-index.html)
+
+[**23. Services, Works, Latest news links**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/23-index.html)
+
+[**24. List the links**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/24-index.html)
+
+[**25. Secondary navigation menu**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/25-index.html)
+
+[**26. Examples of lists for the styleguide**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/26-styleguide.html)
+
+[**27. Separate content**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/27-index.html)
+
+[**28. Horizontal rule example**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/28-styleguide.html)
+
+[**29. Client quotes**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/29-index.html)
+
+[**30. Examples of quotes**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/30-styleguide.html)
+
+[**31. Address and latest news authors**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/31-index.html)
+
+[**32. Typography section - using the correct tags**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/32-styleguide.html)
+
+[**33. Table**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/33-styleguide.html)
+
+[**34. Details**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/34-styleguide.html)
+
+[**35. Replace text logo with image logo**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/35-index.html)
+
+[**36. Add images to your sections**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/36-index.html)
+
+[**37. Social icons**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/index.htmll)
+
+[**38. Add a video player in the styleguide**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/38-styleguide.html)
+
+[**39. Add an audio player in the styleguide**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/39-styleguide.html)
+
+[**40. Add a iframe example in the styleguide**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x00-html_advanced/styleguide.html)
