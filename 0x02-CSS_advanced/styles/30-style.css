@@ -321,7 +321,6 @@ ul.row {
     left: var(--header-logo-link-left);
 }
 
-/* The works section */
 .card-work .card-outer {
     position: relative;
     overflow: hidden;
