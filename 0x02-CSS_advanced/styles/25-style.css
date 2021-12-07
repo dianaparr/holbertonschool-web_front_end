@@ -82,6 +82,21 @@ a:active {
     background-color: var(--color-light-grey);
 }
 
+.button {
+    display: var(--button-display);
+    padding: var(--button-padding);
+    border: var(--button-border);
+    font-size: var(--button-font-size);
+    color: var(--button-color);
+    text-decoration: var(--button-text-decoration);
+}
+
+.button:hover {
+    color: var(--button-hover-color);
+    text-decoration: var(--button-hover-text-decoration);
+    background-color: var(--button-hover-background);
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-family-title);
     font-weight: var(--font-weight-bold);
@@ -239,22 +254,6 @@ ul.row {
     background-color: var(--color-primary);
     text-decoration: none;
 }
-
-.button {
-    display: var(--button-display);
-    padding: var(--button-padding);
-    border: var(--button-border);
-    font-size: var(--button-font-size);
-    color: var(--button-color);
-    text-decoration: var(--button-text-decoration);
-}
-
-.button:hover {
-    color: var(--button-hover-color);
-    text-decoration: var(--button-text-decoration);
-    background-color: var(--button-background-color);
-}
-
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 html {
