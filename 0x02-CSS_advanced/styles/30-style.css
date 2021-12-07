@@ -321,7 +321,6 @@ ul.row {
     left: var(--header-logo-link-left);
 }
 
-/* The works section */
 .card-work .card-outer {
     position: relative;
     overflow: hidden;
@@ -342,7 +341,7 @@ ul.row {
     z-index: 1;
 }
 
-.card-word:hover .card-inner {
+.card-work:hover .card-inner {
     background-color: rgba(0, 0, 0, 0.7);
 }
 
@@ -372,16 +371,6 @@ ul.row {
 .card-work:hover .card-title {
     opacity: 1;
 }
-
-.card-testimonial .card-quote::before {
-    content: "\201C";
-    position: absolute;
-    top: -4.5rem;
-    left: -1rem;
-    color: #efeded;
-    font-size: 10rem;
-    z-index: -1;
-  }
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 html {
