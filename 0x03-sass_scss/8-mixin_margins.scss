@@ -1,0 +1,15 @@
+/* Add mixin: they can contain style rules of their own that can be nested in other rules.
+    Keywords Arguments -> When a mixin is included, arguments can be passed by name in addition
+    to passing them by their position in the argument list. */
+@mixin margin-mixin($margin) {
+    margin-left: $margin;
+    margin-right: $margin;
+}
+
+body {
+    @include margin-mixin(10px);
+}
+
+div {
+    @include margin-mixin(15px);
+}
