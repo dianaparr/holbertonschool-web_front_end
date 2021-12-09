@@ -1,0 +1,9 @@
+/* Nesting: write one style rules inside another | with nested child */
+$text-color-body: #3D3D3D;
+$text-color-class: #FF0000;
+body {
+    color: $text-color-body;
+    > .red {
+        color: $text-color-class;
+    }
+}
