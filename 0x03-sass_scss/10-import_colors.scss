@@ -1,0 +1,6 @@
+/* Use import rule:  with the ability to import Sass and CSS stylesheets,
+    providing access to mixins, functions, and variables and combining multiple stylesheets' CSS together. */
+@import '10-colors';
+.red { color: $red; }
+.green { color: $green; }
+.blue { color: $blue; }
