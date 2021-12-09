@@ -1,6 +1,6 @@
 /* Use for loop | through -> it's include */
 @for $num from 1 through 5 {
-    H#{$num} {
+    h#{$num} {
         font-size: #{$num}px;
     }
 }
