@@ -1,0 +1,10 @@
+/* Nesting:  write one style rules inside another */
+$to-margin: 0px;
+$to-padding: 0px;
+$to-margin-p: 10px;
+body {
+    margin: $to-margin;
+    padding: $to-padding;
+    p {
+        margin: $to-margin-p; }
+}
