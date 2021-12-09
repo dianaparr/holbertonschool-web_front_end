@@ -1,0 +1,12 @@
+/* Nesting: write one style rules inside another | with nested and nested again */
+$font-size-body: 14px;
+$font-size-h1: 16px;
+$font-size-class: 12px;
+body {
+    font-size: $font-size-body;
+    h1 {
+        font-size: $font-size-h1;
+        &.smaller {
+            font-size: $font-size-class; }
+    }
+}
