@@ -53,12 +53,12 @@
 [**12. Loop Headers**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/2e66b4edad9e3cfb5573868348ea3a4ab80d1637/0x03-sass_scss/12-loop_header.scss)
 
 ### Advanced
-[**13. Columns and operators**]()
+[**13. Columns and operators**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/0020d3372485e4df5a6261b81f599239c9c2d543/0x03-sass_scss/100-loop_col.scss)
 
-[**14. Media query #0**]()
+[**14. Media query #0**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/0f02f628c51d20273d4dfc7ffaed2e127beb5822/0x03-sass_scss/101-media_query.scss)
 
-[**15. Media query #1**]()
+[**15. Media query #1**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x03-sass_scss/102-media_query.scss)
 
-[**16. Sort!**]()
+[**16. Sort!**](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x03-sass_scss/103-sort_strings.scss)
 
 ![glasses](https://github.com/dianaparr/holbertonschool-web_front_end/blob/main/0x03-sass_scss/img/gafas.jpg)
