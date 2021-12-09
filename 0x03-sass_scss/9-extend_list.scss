@@ -1,0 +1,14 @@
+/* Add extend: updates style rules that contain the extended selector so that they contain the extending selector as well */
+.info {
+    font-size: 12px;
+}
+
+.success {
+    @extend .info;
+    color: #00FF00;
+}
+
+.warning {
+    @extend .info;
+    color: #FF0000;
+}
