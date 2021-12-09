@@ -1,0 +1,9 @@
+/* Nesting: write one style rules inside another | with nested hover using parent selector (&) */
+$text-color-button: #FF0000;
+$text-color-hover: #00FF00;
+button {
+    color: $text-color-button;
+    &:hover {
+        color: $text-color-hover;
+    }
+}
