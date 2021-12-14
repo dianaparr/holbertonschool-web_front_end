@@ -1,0 +1,57 @@
+:root {
+    --color-box1: #90EE90;
+    --color-box2: #87CEFA;
+    --color-box3: #778899;
+    --color-box4: #9932CC;
+    --color-box5: #FF8C00;
+    --font-family-box: "Times New Roman", Times, serif;
+    --font-size-level1: .8rem;
+    --font-size-level2: 2.5rem;
+    --font-size-level3: 5rem;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    align-content: center;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: var(--font-family-box);
+    width: 3em;
+    height: 1.5em;
+}
+
+.box1 {
+    background-color: var(--color-box1);
+    font-size: var(--font-size-level1);
+    width: 3rem;
+    height: 2rem;
+}
+
+.box2 {
+    background-color: var(--color-box2);
+    font-size: var(--font-size-level2)
+}
+
+.box3 {
+    background-color: var(--color-box3);
+    font-size: var(--font-size-level3);
+}
+
+.box4 {
+    background-color: var(--color-box4);
+    font-size: var(--font-size-level2);
+}
+
+.box5 {
+    background-color: var(--color-box5);
+    font-size: var(--font-size-level1);
+    width: 3rem;
+    height: 2rem;
+}
