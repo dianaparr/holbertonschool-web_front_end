@@ -1,0 +1,64 @@
+/* Variables
+============================= */
+
+:root {
+    --color-primary: #E0003C;
+    --color-hover-focus-active: #BC1340;
+    --color-text-muted: #8C8C8C;
+    
+    --radius-card: 1rem;
+}
+
+/* Base
+============================= */
+
+.border-bottom {
+    border-bottom-color: var(--color-primary) !important;
+}
+
+.border-top {
+    border-top-color: var(--color-primary) !important;
+}
+
+/* Links */
+a[class*="text-"]:hover, a[class*="text-"]:active {
+    color: var(--color-primary);
+}
+
+/* Buttons */
+.btn-primary,
+.btn-primary:hover {
+    background-color: var(--color-primary);
+    border-color: var(--color-primary);
+}
+
+[class*="btn"]:hover, [class*="btn"]:focus, [class*="btn"]:active {
+    background-color: var(--color-hover-focus-active);
+}
+
+.btn-outline-primary {
+    color: var(--color-primary);
+    border-color: var(--color-primary);
+}
+
+.btn-outline-primary:hover {
+    border-color: var(--color-primary)
+}
+
+/* Cards
+    ============================= */
+.card {
+    border-color: var(--color-primary);
+    border-radius: var(--radius-card);
+}
+
+.card .card-header {
+    background-color: var(--color-primary);
+    color: white;
+    border-top-left-radius: var(--radius-card);
+    border-top-right-radius: var(--radius-card);
+}
+
+.text-muted {
+    color: var(--color-text-muted) !important;
+}
