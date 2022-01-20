@@ -18,11 +18,10 @@
                 function addNewMember(firstname, lastname, position) {
                     if (position === "before") {
                         $("tbody").prepend("<tr></tr>");
-                        $("tbody > tr:last").append(`<td>${firstname}</td>`, `<td>${lastname}</td>`, `<td>${"(x)"}</td>`);
-                        $("tbody > tr:last > td:nth-of-type(3)").click((function () { $(this).parent().remove() }));
-                        $("tbody > tr:last > td:nth-of-type(3)").css("background-color", "orange");
-                    }
-                    else {
+                        $("tbody > tr:first").append(`<td>${firstname}</td>`, `<td>${lastname}</td>`, `<td>${"(x)"}</td>`);
+                        $("tbody > tr:first > td:nth-of-type(3)").click((function () { $(this).parent().remove() }));
+                        $("tbody > tr:first > td:nth-of-type(3)").css("background-color", "orange");
+                    } else {
                         $("tbody").append("<tr></tr>");
                         $("tbody > tr:last").append(`<td>${firstname}</td>`, `<td>${lastname}</td>`, `<td>${"(x)"}</td>`);
                         $("tbody > tr:last > td:nth-of-type(3)").click((function () { $(this).parent().remove() }));
