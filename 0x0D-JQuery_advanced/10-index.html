@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+    <head>
+        <meta charset="utf-8" />
+        <title>Task 10</title>
+        <!-- Latest version: jQuery 3.6.0 -->
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+        <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+
+        <script type="text/javascript">
+            $(function() {
+                function addPostRow(data) {
+                    $('body').append(`<p><span>Post created with id ${data.id}, title: ${data.title}, author: ${data.author}</span></p>`);
+                }
+
+                function listPosts() {
+                    $.get("http://localhost:3000/posts", (response, status) => {
+                        if (status === "success") {
+                            for (let index in response) {
+                                addPostRow(response[index]);
+                            }
+                        } else {
+                            alert("Server Error");
+                        }
+                    })
+                }
+
+                listPosts();
+            });
+        </script>
+
+    </head>
+
+    <body>
+
+    </body>
+
+</html>
